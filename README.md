@@ -3,7 +3,7 @@
 This project aims to perform scene classification using deep learning models. The system is designed to analyze scene patterns and classify them into different categories for accurate scene recognition.
 
 ## Dataset
-[Scene Image Recognition-Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data)
+[Intel Image Classification-Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data)
 ## Features
 - **Scene Data Processing**: Tailored for processing and analyzing scene data.
 - **Deep Learning Models**: Utilizes DenseNet architecture.
