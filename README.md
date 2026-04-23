@@ -3,17 +3,17 @@
 This project aims to perform scene classification using deep learning models. The system is designed to analyze scene patterns and classify them into different categories for accurate scene recognition.
 
 ## Dataset
-[Scene Image Recognition-Kaggle](https://www.kaggle.com/datasets/jehanbhathena/scene-dataset)
+[Scene Image Recognition-Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data)
 ## Features
 - **Scene Data Processing**: Tailored for processing and analyzing scene data.
-- **Deep Learning Models**: Utilizes ResNet-121 architecture.
+- **Deep Learning Models**: Utilizes DenseNet architecture.
 - **Training on Labeled Data**: Built on a dataset labeled with scene categories, enabling the model to learn and predict scene conditions accurately.
 - **Performance Metrics**: Model performance evaluated using accuracy, precision, recall, and F1-score.
 
 ## Getting Started
 ### Prerequisites
 - Python 3.x
-- Required Python packages: PyTorch, Streamlit, Scikit-learn, Pandas, NumPy
+- Required Python packages: PyTorch, Streamlit, Torchvision, Pandas, NumPy
 
 ## Setup Instructions
 1. Clone the repository:
