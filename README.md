@@ -39,6 +39,8 @@ To use the scene classification system:
 python -m streamlit run app.py
 ```
 2. Follow the prompts to input scene data for classification.
+## Demo
+<img width="615" height="687" alt="Screenshot 2026-04-29 203955" src="https://github.com/user-attachments/assets/fb847d71-9574-4143-bcde-137685099733" />
 
 ## Acknowledgments
 - Thanks to the original authors of machine learning and deep learning models for their significant contributions to classification tasks.
